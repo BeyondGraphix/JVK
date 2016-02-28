@@ -1,0 +1,108 @@
+/*********************************************************
+					FONTS
+*********************************************************/
+@font-face {
+  font-family: District_thin_pro;
+  src: url(../fonts/district_thin_pro/DistProTh.otf);
+}
+@font-face {
+  font-family: EkMukta-Regular;
+  src: url(../fonts/Ek_Mukta/EkMukta-Regular.tff);
+}
+@font-face {
+  font-family: FreightSansCmpPro-Light;
+  src: url(../fonts/FreightSansCmpPro-Light.otf);
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: Montserrat-bold;
+  src: url(../fonts/montserrat/Montserrat-Bold.ttf);
+}
+@font-face {
+  font-family: OpenSans-Light;
+  src: url(../fonts/open-sans/OpenSans-Light.ttf);
+}
+@font-face {
+  font-family: Oxygen-Regular;
+  src: url(../fonts/Oxygen/Oxygen-Regular.ttf);
+}
+@font-face {
+  font-family: Oxygen-Bold;
+  src: url(../fonts/Oxygen/Oxygen-Bold.ttf);
+}
+@font-face {
+  font-family: Josefin Slab;
+  src: url(../fonts/josefin_slab/JosefinSlab-Regular.ttf);
+}
+@font-face {
+  font-family: Josefin-Slab-bold;
+  src: url(../fonts/josefin_slab/JosefinSlab-Bold.ttf);
+}
+@font-face {
+  font-face: Pontano Sans;
+  src: url(../fonts/Pontano_Sans/Pontano_Sans-Regular.ttf);
+}
+@font-face {
+  font-face: Roboto-Condensed-bold-italic;
+  src: url(../fonts/RobotoCondensed-Bold.ttf);
+}
+@font-face {
+  font-family: Source-sans-pro-Regular;
+  src: url(../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+@font-face {
+  font-family: Source-sans-pro-Bold;
+  src: url(../fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf);
+}
+@font-face {
+  font-family: Scriptina;
+  src: url(../fonts/scriptina/SCRIPTIN.ttf);
+}
+.district-thin-pro {
+  font-family: District_thin_pro;
+}
+.EkMukta-Regular {
+  font-family: EkMukta-Regular;
+}
+.FreightSansCmpPro-Light {
+  font-family: FreightSansCmpPro-Light;
+}
+.montserrat {
+  font-family: montserrat;
+}
+.montserrat-bold {
+  font-family: montserrat-bold;
+}
+.OpenSans-Light {
+  font-family: OpenSans-Light;
+}
+.oxygen-regular {
+  font-family: Oxygen-Regular;
+}
+.oxygen-bold {
+  font-family: Oxygen-Bold;
+}
+.josefin-slab {
+  font-family: josefin slab;
+}
+.josefin-slab-bold {
+  font-family: josefin-slab-bold;
+}
+.pontano-sans {
+  font-family: Pontano Sans;
+}
+.Roboto-condensed-bold {
+  font-family: Roboto-Condensed-bold;
+}
+.Source-sans-pro-Regular {
+  font-family: Source-sans-pro-Regular;
+}
+.Source-sans-pro-Bold {
+  font-family: Source-sans-pro-Bold;
+}
+.Scriptina {
+  font-family: Scriptina;
+}
